@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5f8c06a.css",
+    "main.js": "/static/js/main.bc51aae4.js",
+    "static/media/ludo.png": "/static/media/ludo.b6576de98eb49c5b10ee.png",
+    "static/media/snakeandladder.png": "/static/media/snakeandladder.555fa75aa32922021787.png",
+    "static/media/ChallengeAccepted.mpeg": "/static/media/ChallengeAccepted.ae9737ecc67548bc496a.mpeg",
+    "static/media/4.jpeg": "/static/media/4.5f5acea8030a6ab0e193.jpeg",
+    "static/media/1.jpeg": "/static/media/1.7527deb4aae87ba865d6.jpeg",
+    "static/media/3.jpeg": "/static/media/3.72047546c38e0e4044e4.jpeg",
+    "static/media/2.jpeg": "/static/media/2.77bab29b52cf4de47354.jpeg",
+    "static/media/0.jpeg": "/static/media/0.edff9fd72ee7420bf448.jpeg",
+    "static/media/5.jpeg": "/static/media/5.7efe260ab1164e88e326.jpeg",
+    "index.html": "/index.html",
+    "main.a5f8c06a.css.map": "/static/css/main.a5f8c06a.css.map",
+    "main.bc51aae4.js.map": "/static/js/main.bc51aae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f8c06a.css",
+    "static/js/main.bc51aae4.js"
+  ]
+}
